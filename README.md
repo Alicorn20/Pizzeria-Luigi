@@ -1,2 +1,2 @@
 # Pizzeria-Luigi
-Ipotetic Project
+Hipotetic Project for italian pizza
